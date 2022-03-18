@@ -10,7 +10,7 @@ I do not share all of my personal projects but will always be happy discussing b
 ### Who ? What ?
 I've been a data scientists for 3 years in the banking industry working on financial, risks and marketing use cases (House Pricing, client complaint detector, energy transition helper and many more ...) using Python language mainly (SQL as well when needed), machine and deep learning frameworks leveraging for some with data sciences platform tools.
 
-I also worked quite a lot on the assessment of the data science platform tools and am really interested in the market of data vizualization, data science, data ops as well as the products.
+I am really interested in the market of data vizualization, data science, data ops as well as the products.
 
 
 ### My play ground
